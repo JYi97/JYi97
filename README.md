@@ -10,3 +10,4 @@
 
 ⚡ Fun fact: I have two cats named Charlie and Augustus, named after the children from the movie Charlie and the Chocolate Factory.
 
+<img src="https://github-readme-stats.vercel.app/api?username=JYi97&theme=blue-green"/>
