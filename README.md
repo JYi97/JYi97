@@ -4,13 +4,13 @@
 
 🤔 I’m looking for a full-stack software engineer developer position.
 
-<a href="https://www.linkedin.com/in/justin-yi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-jyi@ucsb.edu
-
 😄 Pronouns: he/him/his
 
 ⚡ Fun fact: I have two cats named Charlie and Augustus, named after the children from the movie Charlie and the Chocolate Factory.
+
+<a href="https://www.linkedin.com/in/justin-yi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+jyi@ucsb.edu
 
 My PC: 
 
