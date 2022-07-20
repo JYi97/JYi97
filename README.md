@@ -1,5 +1,9 @@
 ### Hi, I'm Justin Yi 👋
 
+<a href="https://www.linkedin.com/in/justin-yi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+jyi@ucsb.edu
+
 🔭 I’m currently improving my skills in JavaScript | Python | React | Redux | Node.js | Express.js | Sequelize | Flask | SQLAlchemy
 
 🤔 I’m looking for a full-stack software engineer developer position.
@@ -8,9 +12,7 @@
 
 ⚡ Fun fact: I have two cats named Charlie and Augustus, named after the children from the movie Charlie and the Chocolate Factory.
 
-<a href="https://www.linkedin.com/in/justin-yi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-jyi@ucsb.edu
 
 My PC: 
 
