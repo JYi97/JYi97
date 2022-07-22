@@ -18,7 +18,7 @@ My PC:
 
 <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JYi97&theme=blue-green"/>
