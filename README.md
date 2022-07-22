@@ -4,6 +4,8 @@
 
 jyi@ucsb.edu
 
+<a href="https://jyi97.github.io/">My Portfolio</a>
+
 🔭 I’m currently improving my skills in JavaScript | Python | React | Redux | Node.js | Express.js | Sequelize | Flask | SQLAlchemy
 
 🤔 I’m looking for a full-stack software engineer developer position.
