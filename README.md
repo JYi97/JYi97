@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/justin-yi-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-jyi@ucsb.edu
+yi.justin29@gmail.com
 
 <a href="https://jyi97.github.io/">My Portfolio</a>
 
