@@ -8,7 +8,7 @@ yi.justin29@gmail.com
 
 🔭 I’m currently improving my skills in JavaScript | Python | React | Redux | Node.js | Express.js | Sequelize | Flask | SQLAlchemy
 
-🤔 I’m looking for a full-stack software engineer developer position.
+🤔 I’m looking for a software engineer position.
 
 😄 Pronouns: he/him/his
 
